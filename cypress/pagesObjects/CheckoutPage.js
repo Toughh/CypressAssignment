@@ -1,0 +1,1 @@
+export const continueToCheckoutBtn = 'a[class="ec_cart_button ec_cart_button_checkout"]'
