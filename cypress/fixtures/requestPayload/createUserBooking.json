@@ -1,0 +1,11 @@
+{
+    "firstname" : "Avijit",
+    "lastname" : "Sannigrahi",
+    "totalprice" : 112,
+    "depositpaid" : false,
+    "bookingdates" : {
+        "checkin" : "2019-02-01",
+        "checkout" : "2019-02-01"
+    },
+    "additionalneeds" : "Lunch"
+}
