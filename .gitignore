@@ -1,0 +1,25 @@
+# These files are going to git for assignment purpose only
+# cypress/videos/
+# cypress/screenshots/
+# cypress/reports/
+# cypress/fixtures/
+
+# Node.js dependencies
+node_modules/
+
+# Cypress configuration files
+# env
+
+# Generated files
+*.log
+*.tmp
+
+# IDE and editor configuration files
+.vscode/
+.idea/
+.DS_Store
+
+# Miscellaneous files
+.eslintcache
+.npmrc
+.yarnrc
